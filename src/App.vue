@@ -1,23 +1,22 @@
 <template>
-  <header>
-    <div class="wrapper">
-      <nav>
-        <RouterLink to="/">Home</RouterLink>
-      </nav>
-    </div>
-  </header>
-
-  <RouterView />
+  <div class="container">
+    <NavBar></NavBar>
+    <RouterView/>
+    <AppFooter></AppFooter>
+  </div>
 </template>
 
 <script>
-import { RouterLink, RouterView } from 'vue-router'
+import { RouterView } from 'vue-router';
+import NavBar from './components/NavBar.vue';
+import AppFooter from './components/AppFooter.vue';
 
 export default {
   name: "App",
   components: {
-    RouterLink,
-    RouterView
+    RouterView,
+    NavBar,
+    AppFooter
   }
 }
 </script>
