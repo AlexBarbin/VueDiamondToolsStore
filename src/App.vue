@@ -1,22 +1,38 @@
 <template>
   <div class="container">
     <NavBar></NavBar>
+    <AppBanner></AppBanner>
+    <ReviewsView></ReviewsView>
+    <AboutView></AboutView>
     <RouterView/>
     <AppFooter></AppFooter>
+    <ProductItem></ProductItem>
+    <ContactsView></ContactsView>
+    
   </div>
 </template>
 
 <script>
 import { RouterView } from 'vue-router';
 import NavBar from './components/NavBar.vue';
+import AppBanner from './components/AppBanner.vue';
 import AppFooter from './components/AppFooter.vue';
+import ReviewsView from './views/ReviewsView.vue';
+import AboutView from './views/AboutView.vue';
+import ProductItem from './components/ProductItem.vue';
+import ContactsView from './views/ContactsView.vue';
 
 export default {
   name: "App",
   components: {
     RouterView,
     NavBar,
-    AppFooter
+    AppFooter,
+    AppBanner,
+    ReviewsView,
+    AboutView,
+    ProductItem,
+    ContactsView,
   }
 }
 </script>

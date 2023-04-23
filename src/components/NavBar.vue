@@ -2,7 +2,8 @@
   <div>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
+        
+        <a class="navbar-brand" href="/"><img src="public\img\Logo\Logo2.png" width="80"  height="80" alt=""></a>
         <button
           class="navbar-toggler"
           type="button"
@@ -20,7 +21,7 @@
               <a
                 class="nav-link active dropdown-toggle"
                 data-bs-toggle="dropdown"
-                href="#"
+                href="/products"
                 role="button"
                 aria-haspopup="true"
                 aria-expanded="false"
@@ -29,7 +30,7 @@
                 <a class="dropdown-item" href="#">Diamond discs</a>
                 <a class="dropdown-item" href="#">Grinding cups</a>
                 <a class="dropdown-item" href="#">Diamond drills</a>
-                <a class="dropdown-item" href="#">Devices</a>
+                <a class="dropdown-item" href="#">Accessories</a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#">All products</a>
               </div>
