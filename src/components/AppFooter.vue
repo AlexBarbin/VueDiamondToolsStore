@@ -9,8 +9,8 @@
 
     <ul class="nav col-md-4 justify-content-end">
       <li class="nav-item"><a href="/products" class="nav-link px-2 text-body-secondary">Products</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">About</a></li>
-      <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Contacts</a></li>
+      <li class="nav-item"><a href="/about" class="nav-link px-2 text-body-secondary">About</a></li>
+      <li class="nav-item"><a href="/contacts" class="nav-link px-2 text-body-secondary">Contacts</a></li>
     </ul>
     
     <ul class="nav col-md-12 justify-content-end">

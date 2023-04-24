@@ -1,22 +1,21 @@
 <template>
     <NavBar></NavBar>
-    <AppReviews></AppReviews>
+    <AppAccessories></AppAccessories>
     <AppFooter></AppFooter>
 </template>
 
-
 <script>
 import NavBar from '../components/NavBar.vue';
-import AppReviews from '../components/AppReviews.vue';
+import AppAccessories from '../components/AppAccessories.vue';
 import AppFooter from '../components/AppFooter.vue';
-    
-    
+
+
     export default {
-        name: 'ReviewsView',
+        name: 'ProductsAccessories',
         components: {
-            NavBar,
-            AppReviews,
-            AppFooter, 
+             NavBar,
+             AppAccessories,
+             AppFooter 
         },
     }
 </script>

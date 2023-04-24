@@ -24,18 +24,6 @@
 
           <hr />
 
-          <div class="d-flex flex-row my-3">
-            <div class="text-warning mb-1 me-2">
-              <i class="fa fa-star"></i>
-              <i class="fa fa-star"></i>
-              <i class="fa fa-star"></i>
-              <i class="fa fa-star"></i>
-              <i class="fas fa-star-half-alt"></i>
-
-            </div>
-            
-          </div>
-
           <div class="mb-3">
             <span class="h1">$35.00</span>
           </div>
