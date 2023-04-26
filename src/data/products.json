@@ -1,5 +1,5 @@
 {
-    "products":[
+    "discs":[
         {
             "id": "1001",
             "name": "Diamond disc Kona Flex 125 x 1.2 x 8 x 22.2mm Extra Ceramic",
@@ -12,7 +12,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "Diamond disc for clean cutting ceramic tiles, gres and granite Kona Flex 125 x 1.2 x 22.2 mm Extra Ceramic. Clean cut without chips. The Extra Ceramic disc series is designed for delicate and productive work with ceramic tiles, porcelain stoneware, hard ceramics, granite and natural stone. A distinctive feature is the softness of cutting and efficiency. High resource and performance is achieved due to the strong body, which is reinforced with a flange. The flange gives the necessary rigidity to the body and avoids deformation during cutting. The thickness of the diamond cutting layer is 1.2 mm. This allows you to perform a perfectly clean cut without chips on tiles and ceramic granite. The diamond wheel is specially designed for cutting delicate materials. It is possible to work with both water cooling and dry cooling. Special holes in the body of the disc contribute to rapid cooling of the body and create the effect of transparency of the disc during rotation at high revolutions of the grinder, which allows better control of the cutting zone.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-po-keramogranitu-Kona-Flex-Extra-Ceramic-125-22 (2).jpg",
-            "price": "35.0"
+            "price": "35.00"
         },
         {
             "id": "1002",
@@ -26,7 +26,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "The Ceramic disc series is designed for working with ceramic tiles, porcelain stoneware, hard ceramics, granite and natural stone. A distinctive feature is the softness of cutting and efficiency. A high resource and productivity is achieved due to a strong body, a high diamond layer of 10 mm and a relatively thin edge, which ensures fast cutting into the processed material. Due to the thin diamond-bearing layer, the disk perfectly cuts into the material, and most importantly, high quality of the edge is ensured, without chips. The diamond wheel is specially designed for cutting delicate materials. It is possible to work with both water cooling and dry cooling.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-125-Ceramic.jpg",
-            "price": "35.0"
+            "price": "25.00"
         },
         {
             "id": "1003",
@@ -40,7 +40,7 @@
             "material": ["Concrete", "Reinforced concrete", "Brick"],
             "instructions": "The Turbo disc series is designed for use with reinforced and non-reinforced concrete of high strength. It can also be used for cutting brick, sandstone, granite, and natural stone. A distinctive feature is the softness of cutting and effective passage of reinforcement in concrete. A high resource and productivity is achieved due to a strong body, a high diamond layer of 10 mm and a relatively thin edge, which ensures fast cutting into the processed material.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-125-Turbo.jpg",
-            "price": "20.0"
+            "price": "20.00"
         },
         {
             "id": "1004",
@@ -54,7 +54,7 @@
             "material": ["Concrete", "Reinforced concrete", "Brick"],
             "instructions": "The Turbo disc series is designed for use with reinforced and non-reinforced concrete of high strength. It can also be used for cutting brick, sandstone, granite, and natural stone. A distinctive feature is the softness of cutting and effective passage of reinforcement in concrete. A high resource and productivity is achieved due to a strong body, a high diamond layer of 10 mm and a relatively thin edge, which ensures fast cutting into the processed material.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-230-Turbo.jpg",
-            "price": "40.0"
+            "price": "40.00"
         },
         {
             "id": "1005",
@@ -68,7 +68,7 @@
             "material": ["Concrete", "Reinforced concrete", "Brick"],
             "instructions": "The Segmented Turbo disc series is designed for work with reinforced and non-reinforced concrete of high strength. It can also be used for cutting brick, sandstone, granite, and natural stone. A distinctive feature is the softness of cutting and effective passage of reinforcement in concrete. A high resource and productivity is achieved due to a strong body, a high diamond layer of 12 mm and a relatively thin edge, which ensures fast cutting into the processed material. This disc is perfect for strobe cutters. Due to the incisions, it cools perfectly and effectively ejects sludge from the cutting area. The turbocharged segments guarantee fast cutting and passage of fittings.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-125-Segmented-Turbo.jpg",
-            "price": "25.0"
+            "price": "25.00"
         },
         {
             "id": "1006",
@@ -82,7 +82,7 @@
             "material": ["Concrete", "Reinforced concrete", "Brick"],
             "instructions": "The Segmented Turbo disc series is designed for work with reinforced and non-reinforced concrete of high strength. It can also be used for cutting brick, sandstone, granite, and natural stone. A distinctive feature is the softness of cutting and effective passage of reinforcement in concrete. A high resource and productivity is achieved due to a strong body, a high diamond layer of 12 mm and a relatively thin edge, which ensures fast cutting into the processed material. This disc is perfect for strobe cutters. Due to the incisions, it cools perfectly and effectively ejects sludge from the cutting area. The turbocharged segments guarantee fast cutting and passage of fittings.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-230-Segmented-Turbo.jpg",
-            "price": "25.0"
+            "price": "50.00"
         },
         {
             "id": "1007",
@@ -96,7 +96,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "The Gres disc series is designed for work with ceramic tiles, ceramic granite, hard ceramics, granite and natural stone. A distinctive feature is the softness of cutting and efficiency. A high resource and productivity is achieved due to a strong body, a high diamond layer of 10 mm and a relatively thin edge, which ensures fast cutting into the processed material. Due to the thin diamond-bearing layer, the disk perfectly cuts into the material, and most importantly, high quality of the edge is ensured, without chips. The diamond wheel is specially designed for cutting delicate materials. It is possible to work with both water cooling and dry cooling. Designed for tile cutting machines. The body is reinforced with a flange, which eliminates deformation during lateral loads and distraction of the disc during a 45-degree twist.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-200-Gres-plitkorez.jpg",
-            "price": "35.0"
+            "price": "35.00"
         },
         {
             "id": "1008",
@@ -110,7 +110,7 @@
             "material": "Metal",
             "instructions": "The Metal disc series is designed for working with metal, stainless steel, aluminum, metal profile and sheet metal. A distinctive feature is the softness of cutting and efficiency. High resource and productivity is achieved due to the strong case and special technology of vacuum sintering of the diamond layer of the disk. The incredible resource of the disk allows you to make more than 1000 cuts with one wheel or can replace up to 50 ordinary abrasive metal cutting wheels. Safe. Full protection against tearing, thanks to the strength of the case material. Constant disc diameter throughout the entire service life. A small number of sparks and a small temperature in the cutting zone. Unlimited shelf life, unlike abrasive wheels.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-po-metalu-125-mm.jpg",
-            "price": "20.0"
+            "price": "20.00"
         },
         {
             "id": "1009",
@@ -124,7 +124,7 @@
             "material": "General purpose",
             "instructions": "The series of general-purpose discs is designed to work with a wide range of materials and is a universal assistant in construction and repair work. The Kona Flex General Purpose diamond cutting wheel allows you to cut metal, stainless steel, stone, concrete, reinforced concrete, wood, chipboard, ceramic tile, sandstone, granite, plastic and other types of materials. Without a doubt, it can be characterized as one disk for all occasions! An excellent feature is the softness of cutting and efficiency. High resource and productivity is achieved due to the strong case and special technology of vacuum sintering of the diamond layer of the disk. The special design of heat removal helps to effectively remove heat from the cutting area. Universality of application. Allows you to work with a wide range of materials. The incredible resource of the disk allows you to make more than 1000 cuts with one wheel or can replace up to 50 ordinary abrasive metal cutting wheels. Safe. Full protection against tearing, thanks to the strength of the case material. Constant disc diameter throughout the entire service life. A small number of sparks and a small temperature in the cutting zone. Unlimited shelf life, unlike abrasive wheels.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-universalniy-125-mm.jpg",
-            "price": "20.0"
+            "price": "20.00"
         },
         {
             "id": "1010",
@@ -138,7 +138,7 @@
             "material": "Wood with nails",
             "instructions": "The series of discs for wood with nails is designed for working with wood, plastic, wood with nails, chipboard, OSB and wooden beams. A distinctive feature is the softness of the cut and the efficiency of both longitudinal and transverse cutting. High resource and productivity is achieved due to the strong case and special technology of vacuum sintering of the diamond layer of the disk. High resource, does not require sharpening. Thin and clean drank. Cutting edge from carbide-tungsten grain. The incredible resource of the disk allows you to make more than 1000 cuts in one circle. Safe. The disc does not jam when cutting with an angle grinder (grinding machine). Constant disc diameter throughout the entire service life.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-po-derevu-125-mm.jpg",
-            "price": "15.0"
+            "price": "15.00"
         },
         {
             "id": "1011",
@@ -152,7 +152,7 @@
             "material": ["Concrete", "Reinforced concrete", "Brick"],
             "instructions": "The Segment Concrete disc series is designed for working with reinforced and non-reinforced concrete of high strength. It can also be used for cutting brick, sandstone, granite, and natural stone. A distinctive feature is the softness of cutting and effective passage of reinforcement in concrete. A high resource and productivity is achieved due to a strong body, a high diamond layer of 10 mm and a high concentration of diamonds in the edge, which ensures fast cutting into the processed material. This disc is perfect for joint cutters, gas cutters and stone cutters. Due to the incisions, it cools perfectly and effectively ejects sludge from the cutting area. There is an additional hole for a spindle with a diameter of 11.5 mm.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-350-Segmented-Beton.jpg",
-            "price": "120.0"
+            "price": "120.00"
         },
         {
             "id": "1012",
@@ -166,8 +166,11 @@
             "material": "Asphalt",
             "instructions": "The Segment Asphalt disc series is designed for working with fine- and coarse-grained asphalt, as well as fresh concrete and weakly reinforced concrete. It can also be used for cutting sandstone and other highly abrasive materials. A distinctive feature is the softness of the cut and the effective passage of the material (asphalt). A high resource and productivity is achieved due to a strong body, a high diamond layer of 10 mm and a high concentration of diamonds in the edge, which ensures fast cutting into the processed material. This disk is perfect for joint cutters, gas cutters. Due to the incisions, it cools perfectly and effectively ejects sludge from the cutting area. There is an additional hole for a spindle with a diameter of 11.5 mm. Also, the disc body is protected by special oblique segments against premature wear.",
             "imgUrl": "public/img/Products/Discs/Almazniy-disc-Kona-Flex-350-Segmented-Asphalt.jpg",
-            "price": "120.0"
-        },
+            "price": "120.00"
+        }
+    ],
+    
+    "cups":[
         {
             "id": "2001",
             "name": "Diamond cup Kona Flex 125 x 22.2mm Segment",
@@ -180,7 +183,7 @@
             "material": ["Concrete", "Brick"],
             "instructions": "Diamond concrete grinding mill Kona Flex 125 x 22.2 mm is used for grinding concrete surfaces, bricks, cement screeds, plaster, as well as cleaning surfaces from old plaster and paint. This diamond cup has a number of advantages. The Kona Flex cutter of the Segment series has a large service life and material removal speed. Also, a distinctive feature of this milling cutter can be called its low weight, which has a good effect on the duration of work and does not allow your hands to tire quickly. The diamond cup is suitable for work on small hand-held 125 mm micrometers without water cooling. Due to the lightness of the construction of the grinding tool and the segments soldered around the perimeter, working with the Kona Flex cutter of the Segment series is quite comfortable and easy. The diamond cutter is characterized by high productivity.",
             "imgUrl": "public/img/Products/Grindings/Almaznaya-chashka-Kona-Flex-Segment-125-mm.jpg",
-            "price": "20.0"
+            "price": "20.00"
         },
         {
             "id": "2002",
@@ -194,7 +197,7 @@
             "material": ["Concrete", "Brick", "Granite"],
             "instructions": "Kona Flex 125 x 22.2 mm concrete grinding diamond cutter is used for processing concrete surfaces made of brick, plaster, cement screeds, plaster, as well as cleaning surfaces from old plaster and paint. The configuration of the diamond bed in the form of a turbine is also suitable for grinding natural stone and granite. This diamond cup has a number of advantages. The Kona Flex milling cutter of the Turbo series has a large service life and material removal speed. Another distinctive feature of this milling cutter is the large contact area with the processed surface, which has a positive effect on the speed of grinding, and also allows you to achieve a flat surface during grinding. The diamond cup is suitable for work on small hand-held 125 mm UHSMs without water cooling. Due to the lightness of the construction of the grinding tool and the quick and effective processing of the surface, it is quite comfortable and easy to work with the Kona Flex cutter of the Turbo series. The diamond cutter is characterized by high productivity.",
             "imgUrl": "public/img/Products/Grindings/Almaznaya-chashka-Kona-Flex-Turbo-125-mm.jpg",
-            "price": "25.0"
+            "price": "25.00"
         },
         {
             "id": "2003",
@@ -208,8 +211,11 @@
             "material": ["Concrete", "Brick"],
             "instructions": "Diamond concrete grinding mill Kona Flex 125 x 22.2 mm is used for processing concrete surfaces made of brick, plaster, cement screeds, plaster, as well as cleaning surfaces from old plaster and paint. This diamond cup has a number of advantages. The Kona Flex milling cutter of the L-Segment series has a large service life and material removal speed. Another outstanding feature of this milling cutter is its low weight, which has a good effect on the duration of work and prevents your hands from getting tired quickly. Thanks to the special shape of the diamond segments in the form of boomerangs, the cutter works perfectly in conjunction with special nozzles-cases designed for connecting a vacuum cleaner and removing dust. It has proven itself perfectly when working in conjunction with a Dastool sanding cover with dust removal. The diamond cup is suitable for working on small manual KSHM 125 mm without the use of water cooling. Due to the lightness of the construction of the grinding tool and the segments soldered around the perimeter, working with the Kona Flex milling cutter of the L-Segment series is quite comfortable and easy. The diamond cutter is characterized by high productivity.",
             "imgUrl": "public/img/Products/Grindings/Almaznaya-chashka-Kona-Flex-L-Segment-125-mm.jpg",
-            "price": "40.0"
-        },
+            "price": "40.00"
+        }
+    ],
+
+    "drills":[
         {
             "id": "3001",
             "name": "Diamond drill Kona Flex 6 mm Vacuum",
@@ -222,7 +228,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "The Kona Flex diamond drill of the Vacuum hexagon series is an ideal assistant for drilling blind and through holes in granite, marble or porcelain stoneware. Thanks to the high-quality diamond layer, made using vacuum brazing technology, the diamond drill drills hard natural rocks without difficulty. At the same time, the hole remains smooth, most importantly without chips. It is characterized by a large resource, excellent drilling speed. Diamond drill Kona Flex series Vacuum 6 mm is designed for drills and screwdrivers. It has a hex shank to prevent the drill bit from twisting in the drill chuck. There is no need to use water cooling when drilling. Paraffin is used inside the tubular drill, which contributes to effective cooling of the tool and extends its service life. Advantages of the Kona Flex 6 mm Vacuum hexagon diamond drill: high drilling speed, long working life, quality and accuracy of drilling, the possibility of dry work.",
             "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-na-drel-6-mm.jpg",
-            "price": "10.0"
+            "price": "10.00"
         },
         {
             "id": "3002",
@@ -236,7 +242,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "The Kona Flex diamond drill of the Vacuum hexagon series is an ideal assistant for drilling blind and through holes in granite, marble or porcelain stoneware. Thanks to the high-quality diamond layer, made using vacuum brazing technology, the diamond drill drills hard natural rocks without difficulty. At the same time, the hole remains smooth, most importantly without chips. It is characterized by a large resource, excellent drilling speed. Diamond drill Kona Flex series Vacuum 25 mm is designed for drills and screwdrivers. It has a hex shank to prevent the drill bit from twisting in the drill chuck. There is no need to use water cooling when drilling. Paraffin is used inside the tubular drill, which contributes to effective cooling of the tool and extends its service life. Advantages of the Kona Flex 25 mm Vacuum hexagon diamond drill: high drilling speed, long working life, quality and accuracy of drilling, the possibility of dry work.",
             "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-na-drel-25-mm (2).jpg",
-            "price": "15.0"
+            "price": "15.00"
         },
         {
             "id": "3003",
@@ -250,7 +256,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "The Kona Flex diamond drill of the Vacuum hexagon series is an ideal assistant for drilling blind and through holes in granite, marble or porcelain stoneware. Thanks to the high-quality diamond layer, made using vacuum brazing technology, the diamond drill drills hard natural rocks without difficulty. At the same time, the hole remains smooth, most importantly without chips. It is characterized by a large resource, excellent drilling speed. Diamond drill Kona Flex series Vacuum 40 mm is designed for drills and screwdrivers. It has a hex shank to prevent the drill bit from twisting in the drill chuck. There is no need to use water cooling when drilling. Paraffin is used inside the tubular drill, which contributes to effective cooling of the tool and extends its service life. Advantages of the Kona Flex 40 mm Vacuum hexagon diamond drill: high drilling speed, long working life, quality and accuracy of drilling, the possibility of dry work.",
             "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-na-drel-40-mm (2).jpg",
-            "price": "25.0"
+            "price": "25.00"
         },
         {
             "id": "3004",
@@ -264,7 +270,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "The Kona Flex diamond drill of the Vacuum hexagon series is an ideal assistant for drilling blind and through holes in granite, marble or porcelain stoneware. Thanks to the high-quality diamond layer, made using vacuum brazing technology, the diamond drill drills hard natural rocks without difficulty. At the same time, the hole remains smooth, most importantly without chips. It is characterized by a large resource, excellent drilling speed. Diamond drill Kona Flex series Vacuum 68 mm is designed for drills and screwdrivers. It has a hex shank to prevent the drill bit from twisting in the drill chuck. There is no need to use water cooling when drilling. Paraffin is used inside the tubular drill, which contributes to effective cooling of the tool and extends its service life. Advantages of the Kona Flex 68 mm Vacuum hexagon diamond drill: high drilling speed, long working life, quality and accuracy of drilling, the possibility of dry work.",
             "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-na-drel-68-mm (2).jpg",
-            "price": "45.0"
+            "price": "45.00"
         },
         {
             "id": "3005",
@@ -278,7 +284,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "Diamond drill Kona Flex Vacuum M14 series is an ideal assistant for drilling blind and through holes in granite, marble or porcelain stoneware. Thanks to the high-quality diamond layer made by vacuum brazing technology, the diamond drill drills hard natural rocks without difficulty. At the same time, the hole remains smooth, most importantly without chips. It is characterized by a large resource, excellent drilling speed. Kona Flex diamond drill of the Vacuum series 6 mm is intended for an angle grinder (grinding machine). It has a cylindrical shank with an M14 internal thread. There is no need to use water cooling when drilling. Paraffin is used inside the tubular drill, which contributes to effective cooling of the tool and extends its service life. Advantages of the Kona Flex 6 mm x M14 diamond drill: high drilling speed, long service life, quality and accuracy of drilling, possibility of dry work.",
             "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-M14-6-mm (2).jpg",
-            "price": "15.0"
+            "price": "15.00"
         },
         {
             "id": "3006",
@@ -292,7 +298,7 @@
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "Diamond drill Kona Flex Vacuum M14 series is an ideal assistant for drilling blind and through holes in granite, marble or porcelain stoneware. Thanks to the high-quality diamond layer made by vacuum brazing technology, the diamond drill drills hard natural rocks without difficulty. At the same time, the hole remains smooth, most importantly without chips. It is characterized by a large resource, excellent drilling speed. Kona Flex diamond drill of the Vacuum series 25 mm is intended for an angle grinder (grinding machine). It has a cylindrical shank with an M14 internal thread. There is no need to use water cooling when drilling. Paraffin is used inside the tubular drill, which contributes to effective cooling of the tool and extends its service life. Advantages of the Kona Flex 25 mm x M14 diamond drill: high drilling speed, long service life, quality and accuracy of drilling, possibility of dry work.",
             "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-M14-25-mm (2).jpg",
-            "price": "20.0"
+            "price": "20.00"
         },
         {
             "id": "3007",
@@ -305,8 +311,8 @@
             "innerDiameter": "M14",
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "Diamond drill Kona Flex Vacuum M14 series is an ideal assistant for drilling blind and through holes in granite, marble or porcelain stoneware. Thanks to the high-quality diamond layer made by vacuum brazing technology, the diamond drill drills hard natural rocks without difficulty. At the same time, the hole remains smooth, most importantly without chips. It is characterized by a large resource, excellent drilling speed. Kona Flex diamond drill of the Vacuum series 40 mm is intended for an angle grinder (grinding machine). It has a cylindrical shank with an M14 internal thread. There is no need to use water cooling when drilling. Paraffin is used inside the tubular drill, which contributes to effective cooling of the tool and extends its service life. Advantages of the Kona Flex 40 mm x M14 diamond drill: high drilling speed, long service life, quality and accuracy of drilling, possibility of dry work.",
-            "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-M14-25-mm (2).jpg",
-            "price": "30.0"
+            "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-M14-40-mm (2).jpg",
+            "price": "30.00"
         },
         {
             "id": "3008",
@@ -319,9 +325,12 @@
             "innerDiameter": "M14",
             "material": ["Ceramic tile", "Gres", "Granite"],
             "instructions": "Diamond drill Kona Flex Vacuum M14 series is an ideal assistant for drilling blind and through holes in granite, marble or porcelain stoneware. Thanks to the high-quality diamond layer made by vacuum brazing technology, the diamond drill drills hard natural rocks without difficulty. At the same time, the hole remains smooth, most importantly without chips. It is characterized by a large resource, excellent drilling speed. Kona Flex diamond drill of the Vacuum series 68 mm is intended for an angle grinder (grinding machine). It has a cylindrical shank with an M14 internal thread. There is no need to use water cooling when drilling. Paraffin is used inside the tubular drill, which contributes to effective cooling of the tool and extends its service life. Advantages of the Kona Flex 68 mm x M14 diamond drill: high drilling speed, long service life, quality and accuracy of drilling, possibility of dry work.",
-            "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-M14-25-mm (2).jpg",
-            "price": "50.0"
-        },
+            "imgUrl": "public/img/Products/Drills/Almaznoe-sverlo-Kona-Flex-M14-68-mm (2).jpg",
+            "price": "50.00"
+        }
+    ],
+
+    "accessories":[
         {
             "id": "4001",
             "name": "Cover for sanding with dust removal for angle grinding machine Dastool AG-19 125 mm",
@@ -334,7 +343,7 @@
             "material": "",
             "instructions": "When performing construction and repair work, there is always a need to level the surface by grinding. Be it leveling a concrete floor screed, removing concrete spills or removing old paint from a concrete surface. A diamond cup (mill) is perfect for these tasks, but a huge amount of dust is released during operation. This has a detrimental effect on comfort at work, as well as on health. The special nozzle for angle grinders with a diameter of 125 mm by TM Dastool solves this yellowing problem! The cover is suitable for all grinders available on the market. Installation on the grinder takes no more than two minutes and does not require any additional tools. The design of the Dastool AG-19 nozzle allows you to install it on any grinder. Thanks to the set of spacer rings included in the kit, the nozzle will fit any 125 mm grinder. The device has a dense row of bristles around the perimeter, which allows you to avoid the emission of dust from the working area. The opening mechanism also allows you to open the casing sector, so that you can reach hard-to-reach places (corners, walls, protruding elements). The design is made of thick, durable plastic that can withstand heavy loads and shocks during operation, and the casing is also light in weight. Due to the resulting centrifugal force of the air flow, dust is easily removed into the nozzle of the vacuum cleaner. Therefore, even a household vacuum cleaner can handle dust removal. The casing nozzle has a low weight, which is important when working.",
             "imgUrl": "public/img/Products/Accessories/Cover-for-sanding-Dastool-125-mm.jpg",
-            "price": "20.0"
+            "price": "20.00"
         },
         {
             "id": "4002",
@@ -348,7 +357,7 @@
             "material": "",
             "instructions": "When performing construction and repair work, there is always a need to cut holes for wiring cables. In the absence of a special stroboriz, this process is often time-consuming and very dusty. The special nozzle for angle grinders with a diameter of 125 mm by TM Dastool solves this problem! The curtain cutter attachment is suitable for all grinding machines available on the market. Installation on the grinder takes no more than two minutes and does not require any additional tools. The design of the Dastool stroboriz allows you to install it on any grinder. Thanks to the set of spacer rings included in the kit, the nozzle will fit any 125 mm grinder. The device has an adjustment of the depth of the cut, which is necessary for laying a large amount of cable in the strobe. The width of the resulting groove is 12 mm due to the spacer washer, which is included with the nozzle. The transparent design of the nozzle allows you to control the straightness and the correct direction of cutting. It also promotes a good view of the cutting area. Due to the resulting centrifugal force of the air flow, dust is easily removed into the nozzle of the vacuum cleaner. Therefore, even a household vacuum cleaner can handle dust removal. The eyelet cutter is light in weight, which is important when working.",
             "imgUrl": "public/img/Products/Accessories/Nozzle-stroborer-Dastool-AG-18-125-mm.jpg",
-            "price": "20.0"
+            "price": "20.00"
         },
         {
             "id": "4003",
@@ -362,7 +371,7 @@
             "material": "",
             "instructions": "When performing construction and repair work, there is always a need to cut holes for wiring cables. In the absence of a special stroboriz, this process is often time-consuming and very dusty. The special nozzle for angle grinders with a diameter of 125 mm by TM Dastool solves this problem! The curtain cutter nozzle is suitable for all Bulgarians available on the market. Installation on the grinder takes no more than two minutes and does not require any additional tools. The design of the Dastool stroboriz allows you to install it on any grinder. Thanks to the set of spacer rings included in the kit, the nozzle will fit any 125 mm grinder. The device has an adjustment of the depth of the cut, which is necessary for laying a large amount of cable in the strobe. The width of the strobe can be adjusted using a shaft and additional rings of different thicknesses, combining the distance between the diamond discs. An additional shaft and spacer rings are included in the nozzle kit. The width of the strobe can be made up to 30 mm. The set includes an additional handle that can be used on the left or right side of the skylight. The set also includes a wrench for a grinder nut, as well as a rubber adapter-adapter for connecting a vacuum cleaner hose. Its stepped design allows you to use any diameter of the vacuum cleaner nozzle. The advantage of this Dastool AG-03 strobe cutter is also the design of the opening body, which allows you to cut into corners and cut through the strobe even in difficult places. And thanks to the opening design, it is not difficult to replace discs. The eyelet cutter is light in weight, which is important when working.",
             "imgUrl": "public/img/Products/Accessories/Nasadka-shtroborez-dlya-bolgarki-Dastool-AG03.jpg",
-            "price": "40.0"
+            "price": "40.00"
         },
         {
             "id": "4004",
@@ -376,7 +385,7 @@
             "material": "",
             "instructions": "When performing construction and repair work, there is always a need to cut holes for wiring cables. In the absence of a special stroboriz, this process is often time-consuming and very dusty. The special nozzle for angle grinders with a diameter of 230 mm by TM Dastool solves this problem! The curtain cutter nozzle is suitable for all Bulgarians available on the market. Installation on the grinder takes no more than two minutes and does not require any additional tools. The design of the Dastool stroboriz allows you to install it on any grinder. Thanks to the set of spacer rings included in the kit, the nozzle will fit any 230 mm grinder. The device has an adjustment of the depth of the cut, which is necessary for laying a large amount of cable in the strobe. The width of the strobe can be adjusted using a shaft and additional rings of different thicknesses, combining the distance between the diamond discs. An additional shaft and spacer rings are included in the nozzle kit. The width of the strobe can be made up to 30 mm. The set includes an additional handle that can be used on the left or right side of the skylight. The set also includes a wrench for a grinder nut, as well as a rubber adapter-adapter for connecting a vacuum cleaner hose. Its stepped design allows you to use any diameter of the vacuum cleaner nozzle. The advantage of this Dastool AG-17 strobe cutter is also the design of the opening body, which allows you to cut into corners and cut through the strobe even in difficult places. And thanks to the opening design, it is not difficult to replace discs. The eyelet cutter is light in weight, which is important when working.",
             "imgUrl": "public/img/Products/Accessories/Nasadka-shtroborez-dlya-bolgarki-Dastool-AG17.jpg",
-            "price": "80.0"
+            "price": "80.00"
         },
         {
             "id": "4005",
@@ -390,7 +399,7 @@
             "material": "",
             "instructions": "Dust is one of the biggest difficulties and inconveniences that arise during construction or repair work. Dust has a negative effect on the respiratory tract, makes it difficult to inspect, and makes a large collection. A significant amount of dust is generated during drilling. The Dastool DR-07 Dust Collector is an effective solution for dealing with dust when drilling holes. Due to soft compaction and low weight, the collector is securely fixed to various surfaces: concrete wall, brickwork, tiles. The nozzle is made of antistatic ABS plastic, which prevents excessive dust from sticking to the walls of the nozzle. The nozzle has a rotary connector for connecting any vacuum cleaners. The kit includes a replaceable seal. The maximum drilling diameter is 16 mm. The main advantages of the Dastool DR-07 vacuum cleaner are: light construction weight, effective dust removal, reliable fixation even to vertical and rough surfaces, the possibility of use with household vacuum cleaners, simplicity and ease of use, a rubber adapter allows you to use it with any diameter of the vacuum cleaner nozzle, a rotating part for a convenient position of the vacuum cleaner nozzle.",
             "imgUrl": "public/img/Products/Accessories/Nasadka-dlya-sverlenija-bez-pili-do-16-mm.jpg",
-            "price": "15.0"
+            "price": "15.00"
         },
         {
             "id": "4006",
@@ -404,7 +413,7 @@
             "material": "",
             "instructions": "Dust is one of the biggest difficulties and inconveniences that arise during construction or repair work. Dust negatively affects the respiratory tract, complicates inspection, creates a large collection volume. A significant amount of dust is generated during drilling. The Dastool DR-13 dust collector is an effective solution for dealing with dust when drilling holes. Due to soft compaction and low weight, the collector is securely fixed to various surfaces: concrete wall, brickwork, tiles. The nozzle is made of antistatic ABS plastic, which prevents excessive dust from sticking to the walls of the nozzle. The nozzle has a fluffy barrier that prevents the emission of dust and mud from the drilling area. Also, the fluffy barrier has a removable design for the convenience of drilling holes of large diameters, for example socket outlets. The maximum drilling diameter is 68 mm. The main advantages of the Dastool DR-13 vacuum cleaner are: light construction weight, effective dust removal, reliable fixation even to vertical and rough surfaces, the possibility of use even with household vacuum cleaners, simplicity and ease of use, a rubber adapter allows use with any diameter of the vacuum cleaner nozzle, fluffy a barrier that prevents the emission of dust and mud from the drilling zone.",
             "imgUrl": "public/img/Products/Accessories/Nasadka-dlya-sverlenija-bez-pili-do-68-mm.jpg",
-            "price": "25.0"
+            "price": "25.00"
         },
         {
             "id": "4007",
@@ -418,7 +427,7 @@
             "material": "",
             "instructions": "Application of the Beking BG-125C grinder stand 125/115 mm. An angle grinder is one of the most common power tools. Thanks to this stand for the Beking BG-125C grinder with a steel bed, you can turn your grinder into a mini cutting machine or a miter saw. Thanks to the stand for the grinding machine, you can securely fix the grinder, as well as the workpiece itself. When performing a cut paired with a rack, two main tasks are solved - the accuracy of the cut at different angles and the safety of the work. Thanks to the vice mounted on the bed, it is possible to fix the part at any precise angle and make a precise cut at 90 degrees, 45 degrees or any desired angle. Using a wide selection of equipment for grinders, whether it is an abrasive wheel for metal, a disc saw with solder or a diamond cutting disc, you can make precise cuts in any type of material (metal, wood, tile, etc.). Thanks to the reliably fixed grinding machine and the part itself, jamming of the disc or saw during the cutting process is excluded. This minimizes the risk of jamming the grinder, ripping it out of your hands and breaking the cutting disc. The main advantages of this stand for the Beking BG-125C grinding machine include: quality of parts, accurate and simple assembly, reliability and simplicity of construction, reliable steel frame, vice for fixation at any angle, possibility of stationary installation, thanks to mounting holes in the bed, high level of work safety, significant time saving during work, accuracy of performed work.",
             "imgUrl": "public/img/Products/Accessories/BG-6125C-Stoika-dlya-bolgarki-125-stalnaya-stanina.jpg",
-            "price": "30.0"
+            "price": "30.00"
         },
         {
             "id": "4008",
@@ -432,7 +441,7 @@
             "material": "",
             "instructions": "An angle grinder is one of the most common power tools. Thanks to this stand for the Beking BG-612508 grinder with a cast-iron bed and broaching, you can turn your grinder into a mini cutting machine or a miter saw. Thanks to the stand for the grinding machine, you can securely fix the grinder, as well as the processed part itself. When performing a cut paired with a rack, two main tasks are solved - the accuracy of the cut at different angles and the safety of the work. Thanks to the quick-clamping vise mounted on the bed, it is possible to fix the part at any precise angle and make a precise cut at 90 degrees, 45 degrees or any desired angle. Using a wide selection of equipment for grinders, whether it is an abrasive wheel for metal, a disc saw with solder or a diamond cutting disc, you can make precise cuts in any type of material (metal, wood, tile, etc.). Thanks to the reliably fixed grinder and the part itself, jamming of the disc or saw during the cutting process is excluded. This minimizes the risk of jamming the grinder, ripping it out of your hands and breaking the cutting disc. Stands for grinding machine with Beking broaching. Distinctive features of the models. TM Beking in its assortment has several types of stands for a 125 mm grinding machine with a broaching machine. The main characteristic differences between the models are: the material from which the frame is made (cast iron or sheet steel) and the diameter of the draft guides (ordinary - 10 mm and reinforced 13.2 mm). Characteristics of the Beking BG-612508 stand for a 125 mm grinder: can be used for all types of 125 mm grinders, has a reliable cast-iron bed of 210 x 330 mm, maximum allowable depth of cut - 30 mm, maximum allowable width of cut - 150 mm, possibility of cutting under various corners (90 degrees, 45 degrees, 30 degrees), reliable fixation of the workpiece with a vice with a quick fixation function, fast-clamping vices with a button.",
             "imgUrl": "public/img/Products/Accessories/BG-612508-Stoika-dlya-bolgarki-125-s-protjagkoy-chugunnaya-stanina.jpg",
-            "price": "80.0"
+            "price": "80.00"
         }
     ]
 }

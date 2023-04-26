@@ -1,22 +1,16 @@
 <template>
-  <NavBar></NavBar>
   <AppContacts></AppContacts>
-  <AppFooter></AppFooter>
 </template>
   
   
 <script>
-import NavBar from '../components/NavBar.vue';
 import AppContacts from '../components/AppContacts.vue';
-import AppFooter from '../components/AppFooter.vue';
 
 
 export default {
   name: 'ContactsView',
   components: {
-    NavBar,
     AppContacts,
-    AppFooter,
 },
 }
 </script>

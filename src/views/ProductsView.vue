@@ -1,30 +1,24 @@
 <template>
-  <NavBar></NavBar>
-  <AppDiscs></AppDiscs>
-  <AppCups></AppCups>
-  <AppDrills></AppDrills>
-  <AppAccessories></AppAccessories>
-  <AppFooter></AppFooter>
+  <ProductsDiscsView></ProductsDiscsView>
+  <ProductsCupsView></ProductsCupsView>
+  <ProductsDrillsView></ProductsDrillsView>
+  <ProductsAccessoriesView></ProductsAccessoriesView>
 </template>
 
 
-<script> 
-  import NavBar from '../components/NavBar.vue';
-  import AppDiscs from '../components/AppDiscs.vue';
-  import AppCups from '../components/AppCups.vue';
-  import AppDrills from '../components/AppDrills.vue';
-  import AppAccessories from '../components/AppAccessories.vue';
-  import AppFooter from '../components/AppFooter.vue';  
+<script>
+  import ProductsDiscsView from '../views/ProductsDiscsView.vue';
+  import ProductsCupsView from '../views/ProductsCupsView.vue';
+  import ProductsDrillsView from '../views/ProductsDrillsView.vue';
+  import ProductsAccessoriesView from '../views/ProductsAccessoriesView.vue';
 
   export default {
     name: "ProductsView",
     components: {
-      NavBar,
-      AppDiscs,
-      AppCups,
-      AppDrills,
-      AppAccessories,
-      AppFooter,      
+      ProductsDiscsView,
+      ProductsCupsView,
+      ProductsDrillsView,
+      ProductsAccessoriesView,      
 },
 }
 </script>

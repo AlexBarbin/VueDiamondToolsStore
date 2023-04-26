@@ -1,13 +1,14 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import HomeView from '../views/HomeView.vue';
-import ProductsDiscs from '../views/ProductsDiscs.vue';
-import ProductsCups from '../views/ProductsCups.vue';
-import ProductsDrills from '../views/ProductsDrills.vue';
-import ProductsAccessories from '../views/ProductsAccessories.vue';
+import ProductsDiscsView from '../views/ProductsDiscsView.vue';
+import ProductsCupsView from '../views/ProductsCupsView.vue';
+import ProductsDrillsView from '../views/ProductsDrillsView.vue';
+import ProductsAccessoriesView from '../views/ProductsAccessoriesView.vue';
 import ProductsView from '../views/ProductsView.vue';
 import ReviewsView from '../views/ReviewsView.vue';
 import AboutView from '../views/AboutView.vue';
 import ContactsView from '../views/ContactsView.vue';
+import ProductDetailsView from '../views/ProductDetailView.vue';
 
 
 
@@ -42,22 +43,27 @@ const router = createRouter({
     {
       path: '/discs',
       name: 'discs',
-      component: ProductsDiscs
+      component: ProductsDiscsView
     },
     {
       path: '/cups',
       name: 'cups',
-      component: ProductsCups
+      component: ProductsCupsView
     },
     {
       path: '/drills',
       name: 'drills',
-      component: ProductsDrills
+      component: ProductsDrillsView
     },
     {
       path: '/accessories',
       name: 'accessories',
-      component: ProductsAccessories
+      component: ProductsAccessoriesView
+    },
+    {
+      path: '/productdetails',
+      name: 'productdetails',
+      component: ProductDetailsView
     },
   ]
 })
