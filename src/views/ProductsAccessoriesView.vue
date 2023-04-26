@@ -1,7 +1,7 @@
 <template>
-    <div class="row">
-      <div class="col-md-6">
-        <h2 style="font-size: 60px; font-weight: 900">Accessories</h2>
+    <div class="row mt-5">
+      <div class="col-md-6 pt-5">
+        <h2 style="font-size: 40px; font-weight: 900">Accessories</h2>
       </div>
       <div class="col-md-6">
         <img class="img-fluid" src="../../public/img/Group/group-accessories-small.jpg" alt="" />

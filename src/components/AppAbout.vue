@@ -1,10 +1,10 @@
 <template>
   <div class="mt-5">
-    <h1 style="font-size: 60px; font-weight: 900">About us</h1>
+    <h1 style="font-size: 40px; font-weight: 900">About us</h1>
     <div class="row g-0 mt-5">
       <div class="col-md-6">
         <img class="img-fluid" src="public\img\Logo\LogoSmall.png" alt="..." />
-        <h1 class="mt-3">Diamond and abrasive tools and equipment</h1>
+        <h2 class="mt-3">Diamond and abrasive tools and equipment</h2>
         <br />
         <p>
           For more than 10 years, we have been engaged in the wholesale and retail trade of
@@ -29,7 +29,7 @@
   </div>
 
   <div style="margin-top: 8%">
-    <h1 style="font-size: 60px; font-weight: 900">Our trademarks</h1>
+    <h1 style="font-size: 40px; font-weight: 900">Our trademarks</h1>
     <div class="row g-0">
       <div style="padding: 3% 10% 3% 10%" class="col-md-6">
         <img class="img-fluid" src="public\img\Logo\Kona Flex_Logo.jpg" alt="..." />
@@ -37,7 +37,7 @@
       </div>
 
       <div class="col-md-6">
-        <h1 style="margin-top: 10%">OUR OWN BRANDS</h1>
+        <h2 style="margin-top: 10%">OUR OWN BRANDS</h2>
         <br />
         <p>We also have our own brands.</p>
         <p>
@@ -54,11 +54,11 @@
   </div>
 
   <div class="mt-5">
-    <h1 style="font-size: 60px; font-weight: 900">Our advantages</h1>
+    <h1 style="font-size: 40px; font-weight: 900">Our advantages</h1>
 
     <div class="row g-0">
       <div class="col-md-6">
-        <h1 class="mt-5">Main reasons to choose us</h1>
+        <h2 class="mt-5">Main reasons to choose us</h2>
         <br />
 
         <table style="border: none">
